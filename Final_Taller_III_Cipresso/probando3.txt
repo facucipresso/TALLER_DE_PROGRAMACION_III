@@ -1,0 +1,3 @@
+UPLOAD parecebien.txt
+parece que va yendo todo bien 
+capaz que termino el practico final
